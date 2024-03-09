@@ -1,0 +1,23 @@
+{
+  "name": "easy-fuel",
+  "version": "1.0.0",
+  "description": "This is a rust project that makes onboarding fuel easy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Showyilu/easy-fuel.git"
+  },
+  "keywords": [
+    "fuel",
+    "typescript"
+  ],
+  "author": "showyilu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Showyilu/easy-fuel/issues"
+  },
+  "homepage": "https://github.com/Showyilu/easy-fuel#readme"
+}
